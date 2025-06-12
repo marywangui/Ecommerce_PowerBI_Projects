@@ -91,10 +91,8 @@ A dougnut chart displays YTD sales distribution by shipping type, revealing cust
 
 Feel free to explore, analyze, and adapt this dashboard to your own eCommerce challenges. We hope this resource empowers you with valuable insights for informed decision-making. For any questions or feedback, please reach out through the GitHub repository.
 
-[GitHub Repository Link](insert your GitHub repository link)
-
 ---
 
-**Connect with Us:**
+**Connect with Me:**
 
 [LinkedIn Profile Link (Insert your LinkedIn Profile Link)](https://www.linkedin.com/in/mary-wangui-2381ba1a5/)https://www.linkedin.com/in/mary-wangui-2381ba1a5/)
